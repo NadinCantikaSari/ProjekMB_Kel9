@@ -1,0 +1,26 @@
+SMART PUBLIC FACILITY — PROYEK ANDROID STUDIO
+
+Ini adalah salinan proyek contoh praktikum yang telah disesuaikan dengan tema Smart Public Facility.
+Struktur package tetap: com.example.pertemuan3_tia
+
+Fitur yang tersedia dari proyek contoh:
+- SplashScreen sebagai halaman awal.
+- Login menggunakan SharedPreferences dengan key isLogin.
+- Pengguna yang sudah login diarahkan ke halaman utama.
+- Toolbar dan navigasi bawah.
+- Halaman utama dengan menu informasi.
+- Logout untuk menghapus status login.
+
+AKUN DEMO:
+Username: admin
+Password: 12345
+
+CARA MEMBUKA:
+1. Ekstrak ZIP.
+2. Buka Android Studio.
+3. Pilih Open, lalu pilih folder NadinMb_Praktikum yang sudah diekstrak.
+4. Tunggu Gradle Sync selesai.
+5. Jalankan aplikasi.
+
+CATATAN:
+File ini dibuat berdasarkan ZIP contoh praktikum yang diberikan. Beberapa halaman pertemuan dan WebView dari proyek contoh tetap dipertahankan sebagai struktur latihan, sehingga bagian tersebut masih perlu disesuaikan jika akan digunakan sebagai fitur final Smart Public Facility.

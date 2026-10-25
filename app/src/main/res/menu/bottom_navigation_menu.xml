@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Beranda" />
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/ic_fasilitas"
+        android:title="Fasilitas" />
+    <item
+        android:id="@+id/message"
+        android:icon="@drawable/ic_laporan"
+        android:title="Laporan" />
+</menu>

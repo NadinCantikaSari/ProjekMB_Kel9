@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru">#03A9F4</color>
+    <color name="btn_login">#A68BE0</color>
+
+    <!-- Palet ungu lembut (campuran ungu dan putih) -->
+    <color name="purple_primary">#A68BE0</color>
+    <color name="purple_dark">#8A6BC8</color>
+    <color name="purple_soft">#EBE3FA</color>
+    <color name="purple_light">#D9CBF5</color>
+    <color name="bg_lavender">#F7F3FD</color>
+    <color name="text_purple">#4A3B6B</color>
+    <color name="text_muted">#7B6F94</color>
+
+    <!-- Status laporan -->
+    <color name="status_proses_bg">#FFE9D6</color>
+    <color name="status_proses_text">#C2570C</color>
+    <color name="status_selesai_bg">#DDF3E2</color>
+    <color name="status_selesai_text">#2E7D32</color>
+</resources>
